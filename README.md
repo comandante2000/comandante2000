@@ -1,4 +1,4 @@
-<h1 align= "center"> Yo, I'm Joey 👋</h1>
+<h1 align= "center"> Hi, I'm Joey 👋</h1>
 <h4 align= "center">Student / Programmer</h1>
 
 <h3 align="center">Tools</h3>
