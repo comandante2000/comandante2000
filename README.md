@@ -1,5 +1,5 @@
 <h1 align= "center"> Hi, I'm Joey 👋</h1>
-<h4 align= "center">$tStudent</h1>
+<h4 align= "center">4tStudent</h1>
 
 <h3 align="center">Tools</h3>
 
