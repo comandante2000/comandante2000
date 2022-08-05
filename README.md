@@ -8,5 +8,5 @@
   
   <h5 align= "center">&&</h5>
   
-<h4 align= "center"><i>ctrl+C & ctrl+v</i></h4>
+<h4 align= "center"><i>ctrl+C & ctrl+V</i></h4>
 
