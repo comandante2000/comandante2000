@@ -1,5 +1,5 @@
 <h1 align= "center"> Hi, I'm Joey 👋</h1>
-<h4 align= "center">4th Year College Student</h1>
+<h4 align= "center">4th year College Student</h1>
 
 <h3 align="center">Tools && Skills</h3>
 
