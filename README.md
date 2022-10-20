@@ -1,5 +1,5 @@
 <h1 align= "center"> Hi, I'm Joey</h1>
-<h4 align= "center"> a 4tH ye College Student</h1>
+<h4 align= "center"> a 4tH yea College Student</h1>
 
 <h3 align="center">Tools && Skills</h3>
 
