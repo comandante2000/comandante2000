@@ -40,8 +40,6 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://material-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://material-ui.com/static/logo_raw.svg" alt="Material UI" width="40" height="40"/>
-  </a>
+
 
 
